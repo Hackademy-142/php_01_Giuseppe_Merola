@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#521C07",
+        "titleBar.activeBackground": "#732809",
+        "titleBar.activeForeground": "#FEFAF8"
+    },
+    
+    "files.associations": {"*.module": "php"}
+}
